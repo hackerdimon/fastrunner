@@ -2,7 +2,7 @@
 
 int main()
 {
-	initwindow(400, 300, "First Sample");
+	initwindow(1000, 1000, "FASTRUNNER");
 	circle(100, 50, 40);
 	while (!kbhit())
 	{
